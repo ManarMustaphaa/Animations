@@ -1,0 +1,7 @@
+#Mon Jun 26 19:26:32 EET 2017
+base.0=E\:\\Clg\\Fourth Year\\Project\\Animations\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1cabca147c31f5b656d3cf112a91d0eaa97c0342
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Clg\\Fourth Year\\Project\\Animations\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0dcf3bfc76c07762e995b6602bbaa467e9681ce2\\classes.dex
+base.1=E\:\\Clg\\Fourth Year\\Project\\Animations\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0dcf3bfc76c07762e995b6602bbaa467e9681ce2
+file.0=E\:\\Clg\\Fourth Year\\Project\\Animations\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1cabca147c31f5b656d3cf112a91d0eaa97c0342\\classes.dex

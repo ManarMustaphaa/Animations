@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\manar_000\.android\build-cache\d91d3e8a4df52dabe9ecf912d5d5772d80f0cf23\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\manar_000\.android\build-cache\3690a0ca60379bac953cb67ccf46c071364c7032\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\manar_000\.android\build-cache\48fc7c716236b0f15e39ea398b5c8427f6949041\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\manar_000\.android\build-cache\047932cf7ba085415986efc43b60d8e872a7b284\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\manar_000\.android\build-cache\81ba41e60bfb13b29aae7ce2bb865f4e5d65044f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\manar_000\.android\build-cache\d82744d2ea2d3f4a89d0f94c3107439679919204\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\manar_000\.android\build-cache\be43294fbb61421591a41b1b53ee36a17d9678d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\manar_000\.android\build-cache\cd5eab673158d5f5bf8e20830d2092fd23519383\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\manar_000\.android\build-cache\5e8d5bfcc418446b6fa318b802fbc13a1427dc79\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\manar_000\.android\build-cache\ae0df92617db20c9444ecb7509bb76c14909132c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\manar_000\.android\build-cache\9068c12a092dc35c3d08e0824b28ff78387aa3e4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\manar_000\.android\build-cache\5bf32f3c64c825e3859765d67a657df2dd9150ce\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.manar_000.animations.Main2Activity
+ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:14:13-57
+	android:theme
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:13:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\manar_000\.android\build-cache\d91d3e8a4df52dabe9ecf912d5d5772d80f0cf23\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\manar_000\.android\build-cache\3690a0ca60379bac953cb67ccf46c071364c7032\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\manar_000\.android\build-cache\48fc7c716236b0f15e39ea398b5c8427f6949041\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\manar_000\.android\build-cache\047932cf7ba085415986efc43b60d8e872a7b284\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\manar_000\.android\build-cache\81ba41e60bfb13b29aae7ce2bb865f4e5d65044f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\manar_000\.android\build-cache\032f0af59631585271cb09d8a4a3cbbf42397232\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\manar_000\.android\build-cache\d82744d2ea2d3f4a89d0f94c3107439679919204\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\manar_000\.android\build-cache\be43294fbb61421591a41b1b53ee36a17d9678d6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\manar_000\.android\build-cache\cd5eab673158d5f5bf8e20830d2092fd23519383\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\manar_000\.android\build-cache\5e8d5bfcc418446b6fa318b802fbc13a1427dc79\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\manar_000\.android\build-cache\ae0df92617db20c9444ecb7509bb76c14909132c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\manar_000\.android\build-cache\9068c12a092dc35c3d08e0824b28ff78387aa3e4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\manar_000\.android\build-cache\5bf32f3c64c825e3859765d67a657df2dd9150ce\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\manar_000\.android\build-cache\3690a0ca60379bac953cb67ccf46c071364c7032\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Clg\Fourth Year\Project\Animations\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\manar_000\.android\build-cache\3690a0ca60379bac953cb67ccf46c071364c7032\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\manar_000\.android\build-cache\48fc7c716236b0f15e39ea398b5c8427f6949041\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\manar_000\.android\build-cache\047932cf7ba085415986efc43b60d8e872a7b284\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\manar_000\.android\build-cache\81ba41e60bfb13b29aae7ce2bb865f4e5d65044f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\manar_000\.android\build-cache\032f0af59631585271cb09d8a4a3cbbf42397232\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\manar_000\.android\build-cache\d82744d2ea2d3f4a89d0f94c3107439679919204\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\manar_000\.android\build-cache\be43294fbb61421591a41b1b53ee36a17d9678d6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\manar_000\.android\build-cache\cd5eab673158d5f5bf8e20830d2092fd23519383\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\manar_000\.android\build-cache\5e8d5bfcc418446b6fa318b802fbc13a1427dc79\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\manar_000\.android\build-cache\ae0df92617db20c9444ecb7509bb76c14909132c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\manar_000\.android\build-cache\9068c12a092dc35c3d08e0824b28ff78387aa3e4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\manar_000\.android\build-cache\5bf32f3c64c825e3859765d67a657df2dd9150ce\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\manar_000\.android\build-cache\3690a0ca60379bac953cb67ccf46c071364c7032\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\manar_000\.android\build-cache\3690a0ca60379bac953cb67ccf46c071364c7032\output\AndroidManifest.xml:26:9-47
